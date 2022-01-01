@@ -39,8 +39,11 @@ The application should have functions below:
 Ok, in the end, the manager said:
 "You can code me one sample of this application these day"
 Let's imagine there are only three customers:
+
 Chao, from US Market🇺🇸, who is a student👩‍🎓, uses an In-store channel for two chocolate boxes🍫.
+
 Archil, from US Market🇺🇸, who is a student👨‍🎓, uses an Online PC web channel for three nut boxes🌰.
+
 Joe, from Chinese Market🇨🇳, who is NOT a student👨‍🍳, uses an Online Mobile channel for one seafood box🦞.
 
 "Good Luck!😈" The manager said in the end.
