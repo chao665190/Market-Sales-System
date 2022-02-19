@@ -36,8 +36,7 @@ The application should have functions below:
 2. let managers know sales revenues 💵 by market, channel, ads, and boxes(solution offers).
 3. let managers know the profit of all orders.
 
-Ok, in the end, the manager said:
-"You can code me one sample of this application these day"
+
 Let's imagine there are only three customers:
 
 Chao, from US Market🇺🇸, who is a student👩‍🎓, uses an In-store channel for two chocolate boxes🍫.
