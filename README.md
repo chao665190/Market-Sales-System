@@ -2,7 +2,7 @@
 
 Let us assume that there is a wholesale club 🛒. It sells products to the U.S. market 🇺🇸 and the Chinese market 🇨🇳.
 
-One day the market manager 🧟 calls 📞 you and would like you to help them develop one software application 📱 for their three latest holiday boxes 🎁 🎁 🎁:
+One day the market manager calls 📞 you and would like you to help them develop one software application 📱 for their three latest holiday boxes 🎁 🎁 🎁:
 1. 🎉The chocolate box which values $70 and contains chocolate1, chocolate2, chocolate3.
 2. 🎉The nut box which values $100 and contains nut1, nut2, nut3.
 3. 🎉The seafood box which values $250 and contains seafood1, seafood2, seafood3.
@@ -46,10 +46,8 @@ Archil, from US Market🇺🇸, who is a student👨‍🎓, uses an Online PC w
 
 Joe, from Chinese Market🇨🇳, who is NOT a student👨‍🍳, uses an Online Mobile channel for one seafood box🦞.
 
-"Good Luck!😈" The manager said in the end.
+This project is what I wrote for the sample of the application.
 
-And what you see, this project is what I wrote for the sample of that application.🎉🎉😄
-
-Enjoy!🌋🌋🌋
+Enjoy!
 
 Chao Wang
